@@ -1,0 +1,72 @@
+卷 Software 的文件夹 PATH 列表
+卷序列号为 00000200 0007:6905
+D:.
+├─.phpintel
+├─.settings
+├─admin  //后台管理相关
+│  ├─images
+│  │  └─icon
+│  ├─scripts //js脚本相关
+│  │  └─jquery-ui
+│  │      ├─css
+│  │      │  └─ui-lightness
+│  │      │      └─images
+│  │      └─js
+│  ├─styles
+│  └─uploads
+├─configs //数据库相关配置，密码等
+├─core      
+├─data
+├─faceImg  //头像图片
+├─fonts    //字体文件
+├─images    //前端相关图片
+│  ├─banner 
+│  ├─faceImg
+│  └─icon
+├─images_220 //php处理成的不同规格图片
+├─images_350
+├─images_50
+├─images_800
+├─lib         //
+├─plugins     // web插件
+│  └─kindeditor
+│      ├─attached
+│      ├─lang
+│      ├─php
+│      ├─plugins
+│      │  ├─anchor
+│      │  ├─autoheight
+│      │  ├─baidumap
+│      │  ├─clearhtml
+│      │  ├─code
+│      │  ├─emoticons
+│      │  │  └─images
+│      │  ├─filemanager
+│      │  │  └─images
+│      │  ├─flash
+│      │  ├─image
+│      │  │  └─images
+│      │  ├─insertfile
+│      │  ├─lineheight
+│      │  ├─link
+│      │  ├─map
+│      │  ├─media
+│      │  ├─multiimage
+│      │  │  └─images
+│      │  ├─pagebreak
+│      │  ├─plainpaste
+│      │  ├─preview
+│      │  ├─quickformat
+│      │  ├─table
+│      │  ├─template
+│      │  │  └─html
+│      │  └─wordpaste
+│      └─themes
+│          ├─common
+│          ├─default
+│          ├─qq
+│          └─simple
+├─scripts
+├─styles
+└─test
+    └─uploads

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="styles/jquery.jqzoom.css">
+	<script src="admin/scripts/jquery-1.6.4.js"></script>
+	<script src="scripts/jquery.jqzoom-core.js"></script>
+</head>
+<body>
+				<div class="big">
+					<a href="image_800/" class="jqzoom" rel='gal1'  title="triumph" >
+           			 <img width="309" height="340" src="images/des_big.jpg"  title="triumph">
+	        		</a>
+				</div>
+</body>
+<script>
+	$(document).ready(function() {
+	$('.jqzoom').jqzoom({
+            zoomType: 'standard',
+            lens:true,
+            preloadImages: false,
+            alwaysOn:false,
+			title:false,
+			zoomWidth:410,
+			zoomHeight:410
+        });
+	
+});
+</script>
+</html>
