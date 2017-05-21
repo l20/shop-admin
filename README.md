@@ -93,6 +93,11 @@ php、MySQL、Apache、jQuery、jQuery ui、kindeditor、jquery.jqzoom
     └─uploads
 
 
+# 环境
+* Apache 2.4.9
+* PHP 5.5.12
+* windows 7
+
 # 项目页面
 
 ### 管理员登录
